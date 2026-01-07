@@ -5,7 +5,7 @@ Interested in data analysis, automation and practical problem-solving.
 
 📍 Santiago (studies) / Calama, Chile  
 📧 mati6e.s@gmail.com  
-🔗 LinkedIn: linkedin.com/in/sone6e
+🔗 LinkedIn: [linkedin/sone6e](www.linkedin.com/in/sone6e)
 
 ## Projects
 ### 🇨🇱 Chile Higher Education Institutions & Admission Scores (IMT-2200)

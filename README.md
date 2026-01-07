@@ -5,7 +5,7 @@ Interested in data analysis, automation and practical problem-solving.
 
 📍 Santiago (studies) / Calama, Chile  
 📧 mati6e.s@gmail.com  
-🔗 LinkedIn: https://www.linkedin.com/in/matias-p%C3%A9rez-unda-02a37637b
+🔗 LinkedIn: [https://www.linkedin.com/in/matias-p%C3%A9rez-unda-02a37637b](https://www.linkedin.com/in/matias-p%C3%A9rez-unda-02a37637b/)
 
 ## Projects
 ### 🇨🇱 Chile Higher Education Institutions & Admission Scores (IMT-2200)
